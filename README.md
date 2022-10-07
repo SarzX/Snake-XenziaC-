@@ -1,2 +1,3 @@
 # Snake-Xenzia-master
  SnakeXenziaC#
+![Game]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/SarzX/Snake-XenziaC-/blob/main/310946160_120615493976331_7359796235071931413_n.jpg))
